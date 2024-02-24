@@ -1,4 +1,4 @@
-![logo](https://github.com/haseeb4339/haseeb4339/blob/main/LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Haseeb Ullah</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
