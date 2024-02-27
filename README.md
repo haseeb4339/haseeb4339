@@ -35,6 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haseeb4339&show_icons=true&locale=en" alt="haseeb4339" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haseeb4339&" alt="haseeb4339" /></p>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
