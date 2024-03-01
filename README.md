@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haseeb4339&label=Profile%20views&color=0e75b6&style=flat" alt="haseeb4339" /> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://github.com/haseeb4339/The-Ecommerce.git)
+-# 🔭 I’m currently working on [E-commerce website](https://github.com/haseeb4339/The-Ecommerce.git)
 
 - 🌱 I’m currently learning **Django, JavaScript, CSS, Bootstrap, Flask, Docker, GitHub, Linux, Web Security, Networking**
 
