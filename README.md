@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Backend project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/haseeb4339](https://github.com/haseeb4339)
-
 - 💬 Ask me about **Django, Linux, Networking, Web Security**
 
 - 📫 How to reach me **haseebullahbj@gmail.com**
